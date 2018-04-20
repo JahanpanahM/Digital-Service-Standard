@@ -113,7 +113,7 @@ inequalities through digital services.
 
 To inform service features, interview users and gather data to develop:
 
-* **user goals** - written in this format: As a \[user type\], I want
+* **user stories** - written in this format: As a \[user type\], I want
   \[some goal\] so that \[some reason\]
 * **user personas** - show user groups based on habits, personality,
   attitudes, abilities and motives
